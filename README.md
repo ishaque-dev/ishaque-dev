@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Muhammad Ishaque
 
-## Web Security Researcher | Ruby on Rails Enthusiast | .NET Explorer
-
 Finding the gaps where others see only code. Security researcher by day, code explorer by night.
 
 ```
