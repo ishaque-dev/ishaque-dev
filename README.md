@@ -1,12 +1,24 @@
-# 👋 Hi, I'm Argon aka Ishaque
+# 🔐 Argon | Cryptography Enthusiast
 
-> "Privacy is not a privilege; it's a right." 🛡️  
+## About Me
+Diving deep into the world of cryptographic algorithms, encryption techniques, and secure communication protocols. 🕵️‍♂️🔒
 
-🔐 Cryptography enthusiast | Code & Ciphers  
-⚡ Exploring secure protocols, encryption, and privacy  
-📂 Open-source contributions & cryptanalysis  
+### 🛡️ Areas of Interest
+- Cryptographic Algorithms
+- Information Security
+- Encryption Techniques
+- Secure Communication Protocols
 
-💬 Let's talk crypto: (Your contact or socials)  
+### 🧩 Tech Stack
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+### 📊 GitHub Stats
+![Argon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)
 
-> "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." — Gene Spafford (but I'm still trying to prove him wrong)
+### 💬 Connect
+- 📧 [Your Email]
+- 🌐 [Personal Website/Blog]
+
+*Securing the digital world, one algorithm at a time.* 🔑
