@@ -1,12 +1,15 @@
-## 🔐 Cryptography & Security
+# Ishaque
 
-- Building secure systems
-- Exploring encryption techniques
-- Passionate about digital privacy
+## 🐧 Linux Development
+
+- Kernel exploration
+- Open source contributor
+- Systems programming enthusiast
 
 ### Languages & Tools
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-*Securing the digital world.* 🔑
+*Building digital infrastructure.* 💻
